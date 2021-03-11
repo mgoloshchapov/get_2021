@@ -1,3 +1,4 @@
 Privet, eto text
 Vasya hates line 2
 I like line 3
+lucky line
